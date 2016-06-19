@@ -1,0 +1,4 @@
+package: repository
+import:
+  - package: github.com/gin-gonic/gin
+    version: v0.6
