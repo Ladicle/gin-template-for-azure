@@ -1,4 +1,4 @@
-package: repository
+package: gin-template-for-azure
 import:
   - package: github.com/gin-gonic/gin
     version: v0.6
